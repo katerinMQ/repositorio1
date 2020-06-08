@@ -1,5 +1,7 @@
 public class ClsProducto
 {
 	int precio;
-	int cantidad
+	int cantidad;
+	string nombre;
+	string descripcion;
  }
